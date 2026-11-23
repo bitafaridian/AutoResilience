@@ -17,3 +17,13 @@ This project investigates how these trade-offs can be evaluated and optimized sy
 - Evaluate the trade-offs between total cost and supply chain resilience.
 
 # Methodology
+The research will follow five main stages:
+1. External Supply Exposure Analysis:
+   Analyze publicly available international trade data.
+2. Component Risk Assessment:
+   Evaluate relevant supply vulnerability indicators.
+5. Disruption Scenario Modeling:
+   Simulate potential supply disruptions.
+7. Mathematical Optimization:
+   Develop an opti
+9. Decision-Support Evaluation
