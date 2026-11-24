@@ -1,8 +1,9 @@
 # Research Problem
+## 1. Industrial Context
 The German automative industry relies on complex inetnational supply networks for the procurement of critical electronic components.
 
 Components such as microcontrollers, power semiconducters, and sensors paly essential roels in modern vehicle systems. 
 Disruptions in their supply can affect production continuty, particularly when alternative sources are limited or difficult to qualify.
 
-At the same tiem, manufacturers face financial and operational constraints when implementing resiliencce measures. 
+At the same time, manufacturers face financial and operational constraints when implementing resiliencce measures. 
 Decissions regarding safety stock, alternative sourcing, and supplier diversification therefore involve trade-offd between resilience, cost, and resource availability.
