@@ -1,6 +1,6 @@
 # AutoResilience
 # Data-Driven Decisions Intelligence for Automative Supply Chain Rsilience
-# From supply chain vulnerability to optimized resilience decisions
+From supply chain vulnerability to optimized resilience decisions
 
 # The Research Challenge
 How can automative manufacturers allocate limited financial and operational resources to protect critical components against supply disruptions?
