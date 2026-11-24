@@ -23,3 +23,6 @@ Supporting Research Questions:
 3. How can procurement and resilience investments be optimized under budget and supplier-capacity constraints?
 4. What trade-offs emerge between total cost, inventory investment,and supply availability across alternative sourcing startegies?
 
+## 4.Research Objectives
+
+
