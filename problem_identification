@@ -7,3 +7,9 @@ Disruptions in their supply can affect production continuty, particularly when a
 
 At the same time, manufacturers face financial and operational constraints when implementing resiliencce measures. 
 Decissions regarding safety stock, alternative sourcing, and supplier diversification therefore involve trade-offd between resilience, cost, and resource availability.
+
+## 2.Problem Statement
+Automative manufacturers face the challenge of managing supply vulnerabilities across multiple critical components while operating under limited financial and operational resources.
+
+Existing resilience measures, includung safety stock and alternative sourcing, involve different cists, lead times,and capacity requirements. Applying these mear´sures uniformly across all components may therefore result in inefficient resource allocation.
+The central problem addressed by AutoResilience is the lack of an integrated decison-support approach that connects component-level supply risk assessment with resilience startgy selection an d resource allocation under operational and financial constraints.
