@@ -1,25 +1,26 @@
 # AutoResilience
-A Data-Driven Decison-Support and Optimization Framework for Supply Chain Resilience in the German Automative Industry.
+# Data-Driven Decisions Intelligence for Automative Supply Chain Rsilience
+# From supply chain vulnerability to optimized resilience decisions
 
-# Overview
-AutoResilience is an independent research project investigating supply chain vulnerabilities in the German automative industry, with an initial focus on critical electronic components. The project aims to develop a data-driven decision-support framework that helps supply risks and optimize procurement and resilience strategies under resource constraints.
+# The Research Challenge
+How can automative manufacturers allocate limited financial and operational resources to protect critical components against supply disruptions?
+AutoResilience investigates this challenge in the context of the German automative industry, focusing on the relationship between external supply exposure, component critically, and resilience investment decisions.
 
-# Research Problem
-Automative manufacturers depend on complex international supply networks and specialized electronic components. Disruptionsn affecting critical suppliers can lead to component shortages, production delays, and increased operational costs.
-Traditional approaches such as safety stock and alternative sourcing can improve resilience, but they also involve financial and operational trade-offs.
-This project investigates how these trade-offs can be evaluated and optimized systematically.
+# Research Approach
+An integrated decision-support framework combining:
+- Supply Risk Analytics: Quantifying external supply exposure using international trade data.
+- Disruption Modeling: Evaluating component availability under alternative disruption scenarios.
+- Mathematical Optimization: Allocating inventory and sourcing resources under budget and supplier-capacity constraints. 
 
 # Research Objectives
-- Analyze Germany's external supply exposure for selected automotive electronic components.
-- Develop a structured framework for component-level supply risk assessment.
-- Model supply disruption scenarios.
-- Formulate a multi-component optimization model for procurement and resilience decisions.
-- Evaluate the trade-offs between total cost and supply chain resilience.
+To develop and evaluate a multi-component optimization framework that identifies cost effective resilience strategies while balancing procurement costs, inventory investment, and disruption- related shortages. 
 
-# Methodology
-The research will follow five main stages:
-1. External Supply Exposure Analysis: Analyze publicly available international trade data.
-2. Component Risk Assessment: Evaluate relevant supply vulnerability indicators.
-3. Disruption Scenario Modeling: Simulate potential supply disruptions.
-4. Mathematical Optimization: Develop an optimization model incorporating procurement, inventory, budget, and supplier-capacity decisions.
-5. Decision-Support Evaluation: Compare alternative sourcing and inventory strategies.
+# research Design:
+- Industrial scope: German automative industry
+- Initial case study: Hypothetical automative electronics supplier
+- Data strategy: Public trade statistics and explicitly defined scenario assumptions
+- Methods: Data analytics, scenario-based modeling, and mathematical optimization
+- Implementation: Python
+
+# Current Status
+This is an ongoing independent research project. Model development, data analysis, and computational evaluation. are planned research stages.
