@@ -17,3 +17,9 @@ The central problem addressed by AutoResilience is the lack of an integrated dec
 ## 3.Research Question
 Main Research Question
 How can automative manufacturers identify critical supply vulnerabilities, select appropriate resilience strategies, and optimally allocate limited finacial and operational resources to minimitze disruption-related costs across multiple critical components?
+Supporting Research Questions:
+1. How can external supply exposure and component critically be assessed using publicly available data and structured indicators?
+2. How can alternative resilience strategies, such as safety stock and dual sourcing, be evaluated under different distruption scenario?
+3. How can procurement and resilience investments be optimized under budget and supplier-capacity constraints?
+4. What trade-offs emerge between total cost, inventory investment,and supply availability across alternative sourcing startegies?
+
