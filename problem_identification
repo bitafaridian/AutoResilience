@@ -1,12 +1,6 @@
-# problem definition
-## 1. Industrial problem
-what supply chain problem am I investing?
+# Research Problem
+The German automative industry relies on complex inetnational supply networks for the procurement of critical electronic components.
 
-## 2. why does it matter?
-whay can single-source dependency create risks for automative manufacturers?
+Components such as microcontrollers, power semiconducters, and sensors paly essential roels in modern vehicle systems. Disruptions in their supply can affect production continuty, particularly when alternative sources are limited or difficult to qualify.
 
-## 3. Research Objective
-what do I wnat my research project to achieve?
-
-## 4. Expected Outcome
-What should AutoResilinece evenntuelly help a company decide?
+At the same tiem, manufacturers face financial and operational constraints when implementing resiliencce measures. Decissions regarding safety stock, alternative sourcing, and supplier diversification therefore involve trade-offd between resilience, cost, and resource availability.
